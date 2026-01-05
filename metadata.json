@@ -1,0 +1,9 @@
+{
+  "name": "GeoGuard - Sistem Pelacakan Perangkat",
+  "description": "Dashboard pelacakan perangkat komprehensif dengan visualisasi lokasi real-time, analisis pergerakan berbasis AI, dan blueprint teknis untuk sistem pelacakan yang patuh hukum.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
