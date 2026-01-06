@@ -33,7 +33,6 @@ export interface TechnicalBlueprint {
   language: string;
 }
 
-// Fixed: Added the missing TrackingData interface to resolve "Module has no exported member 'TrackingData'" errors in App.tsx and services/realtime.service.ts
 export interface TrackingData {
   sessionId: string;
   lat: number;
